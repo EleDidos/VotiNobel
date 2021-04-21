@@ -18,7 +18,8 @@ Devo decidere quale: li provo tutti (simile agli anagrammi)
 -GENERAZIONE SOLUZIONE PARZIALE
 	per tutti i casi che non ho ancora considerato 
 	(tutti gli esami non sono ancora compresi in PARZIALE):
-		* provo ad aggiungere
+		* provo ad aggiungere (a ogni livello della ricorsione provo 
+			ad aggiungere tutti quelli che mancano uno alla volta)
 		* faccio andare avanti la ricorsione
 		* faccio backtracking
 		
